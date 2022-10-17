@@ -1,0 +1,17 @@
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\bin\Debug\net6.0-windows\Fibonacci.exe
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\bin\Debug\net6.0-windows\Fibonacci.deps.json
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\bin\Debug\net6.0-windows\Fibonacci.runtimeconfig.json
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\bin\Debug\net6.0-windows\Fibonacci.dll
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\bin\Debug\net6.0-windows\Fibonacci.pdb
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.Form1.resources
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.csproj.GenerateResource.cache
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.AssemblyInfo.cs
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.dll
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\refint\Fibonacci.dll
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.pdb
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\Fibonacci.genruntimeconfig.cache
+C:\Users\sebas\Downloads\Meter GitHub\Fibonacci\obj\Debug\net6.0-windows\ref\Fibonacci.dll
